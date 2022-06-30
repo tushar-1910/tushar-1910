@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Fascination projects**
 - 💻 I'm available to work with **enterprising teams**
 
-#### The green dots on my GitHub profile represent my journey 🏃‍♂️.You can find me on [LinkedIn](www.linkedin.com/in/tushar19/ "LinkedIn") 👨‍💼.
+#### The green dots on my GitHub profile represent my journey 🏃‍♂️.You can find me on [LinkedIn](https://www.linkedin.com/in/tushar19/ "LinkedIn") 👨‍💼.
 
 
 ------------

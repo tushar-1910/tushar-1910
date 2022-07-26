@@ -14,35 +14,51 @@ Here are some ideas to get you started:
 -->
 
 ![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
-# Hi there 👋 I'm Tushar Agarwal
-#### Glad To See You Here! 🤩
->Aspiring Full StackWeb Developer, a passionate coder, and write efficient code using MERN Stack. Ambitious to work and collaborate with other dedicated and enterprising developers. Eager to take up a responsible role within an exciting and inspiring organization, and deliver products that offer a great user experience.
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Tushar <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
+<h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
-- 🌱 I’m currently learning  **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Fascination projects**
-- 💻 I'm available to work with **enterprising teams**
+<h2 align="center">console.log("Hello World !!");</h2>
+<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="350" align="right" alt="" />
 
-#### The green dots on my GitHub profile represent my journey 🏃‍♂️.You can find me on [LinkedIn](https://www.linkedin.com/in/tushar19/ "LinkedIn") 👨‍💼.
-
-
-------------
-
-
-# Languages and Tools 🛠️
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+```js
+import SoftwareDeveloper from 'India';
+class Bio extends SoftwareDeveloper {
+  name     = 'Tushar Agarwal';
+  title    = 'Software Engineer' || 'Full Stack Web Developer';
+  location = 'Delhi, India';
+  availability = "Available to hire!!";
+}
+class Skills extends SoftwareDeveloper {
+  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
+}
+```
 <br/>
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-<!--
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-1910&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<a href="https://github.com/tushar-1910?tab=followers"><img src="https://img.shields.io/github/followers/tushar-1910?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
+<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
+</p>
+
+<!-- <img src="" alt="" /> -->
 <h3><i>Tools | Use</i></h3>
--->
-<p align="left>
+<p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
@@ -59,16 +75,29 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
-                                                                                                                    </p>
+</p>
+
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="left">
+  <a href="https://linkedin.com/in/tushar-1910" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="tusharagg19@gmail.com" href="mailto:tusharagg19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://wa.me/919953708626" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
+  <a href="https://tushar-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+</p>
+<br />
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=tushar-1910&show_icons=true&theme=gradient" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-1910&layout=compact" />
+</div>
+<!-- <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=tushar-1910&theme=minimal" alt="activitygraph" /> -->
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-1910" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=tushar-1910" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-1910&theme=vue" alt="summarycard"/> </p>
+<hr />
 
 
-# GitHub Activity
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-1910&show_icons=true&theme=radical&count_private=true)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-1910&layout=compact&theme=radical)](https://github.com/tushar-1910/github-readme-stats)
-
-
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tushar-1910&theme=react-dark)](https://github.com/tushar1910-/github-readme-activity-graph)
 
 
 ![wave (1)](https://user-images.githubusercontent.com/77038659/130917575-667b8365-a8f0-4ab3-8aa4-1464abfcfcd2.png)
